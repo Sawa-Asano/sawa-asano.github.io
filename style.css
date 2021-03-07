@@ -1,0 +1,22 @@
+h1{
+    color: rgb(7, 17, 197);
+}
+#wrapper{
+   max-width:  960px;
+   margin: 0 auto;
+
+}
+.hutatu{
+    width: 100%;
+    display: flex;
+
+}
+.bookimg{
+    width:30%;
+    background-color: aqua;
+}
+.setumei{
+    width:70%;
+    background-color: rgb(255, 0, 149);
+    float:left;
+}
