@@ -2,15 +2,15 @@ h1{
     color: rgb(7, 17, 197);
 }
 #wrapper{
-   max-width:  960px;
+   max-width:  1190px;
    margin: 0 auto;
 
 }
-.hutatu{
+.mittu{
     width: 100%;
-    display: flex;
-
+    display: flex
 }
+
 .bookimg{
     width:30%;
     background-color: aqua;
@@ -19,4 +19,12 @@ h1{
     width:70%;
     background-color: rgb(255, 0, 149);
     float:left;
+}
+.wakarann{
+    float:left;
+
+}
+.wakarann2{
+    float:left;
+
 }
