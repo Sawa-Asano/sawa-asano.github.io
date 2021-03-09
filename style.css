@@ -1,9 +1,21 @@
 h1{
-    color: rgb(7, 17, 197);
+    color: #272343;
+    font-size: 60px;
+  }
+h2{
+    color: #272343;
 }
+h3{
+    color:#272343;
+}
+h4{
+    font-size:20px;
+}
+
 #wrapper{
    max-width:  1190px;
    margin: 0 auto;
+  
 
 }
 .mittu{
@@ -18,4 +30,35 @@ h1{
     width:70%;
     background-color: rgb(255, 0, 149);
     float:left;
+}
+
+.under {
+    background: linear-gradient(transparent 50%, #a8eaff 50%);
+  }
+
+  .box26 {
+    position: relative;
+    margin: 2em 0;
+    padding: 0.5em 1em;
+    border: solid 3px#ffd803;
+    border-radius: 8px;
+}
+.box26 .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 30px;
+    background: #FFF;
+    color:#ffd803;
+    font-weight: bold;
+   
+    
+}
+.box26 p {
+    margin: 0; 
+    padding: 0;
 }
