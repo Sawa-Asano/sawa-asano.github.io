@@ -6,16 +6,32 @@ h2{
     color: #272343;
 }
 h3{
-    color:#272343;
+    color: #272343;
 }
 h4{
     font-size:20px;
+    color: #272343;
+}
+
+p{
+    color: #272343;
+}
+
+a{
+    color: #2d334a;
+}
+
+ol li{
+    padding-top: 10px;
+    font-size:20px ;
 }
 
 #wrapper{
    max-width:  1190px;
    margin: 0 auto;
-  
+  }
+.bookk a  {
+    float:right;
 
 }
 .mittu{
@@ -28,20 +44,21 @@ h4{
 }
 .setumei{
     width:70%;
-    background-color: rgb(255, 0, 149);
+    background-color: #e3f6f5;
     float:left;
 }
 
 .under {
-    background: linear-gradient(transparent 50%, #a8eaff 50%);
+    background: linear-gradient(transparent 50%, #bae8e8 50%);
   }
 
   .box26 {
     position: relative;
-    margin: 2em 0;
-    padding: 0.5em 1em;
+    margin: 3em 0 4cm 0;
+    padding: 2em 1em;
     border: solid 3px#ffd803;
     border-radius: 8px;
+    
 }
 .box26 .box-title {
     position: absolute;
@@ -62,6 +79,19 @@ h4{
     margin: 0; 
     padding: 0;
 }
+
+.title{
+    height:200px ;
+    padding-top: 50px;
+}
+
+/*body{
+    background-image: url("https://i.ibb.co/YttCVb6/honn1.png" )
+}*/
+
+
+
+
 
 
 
